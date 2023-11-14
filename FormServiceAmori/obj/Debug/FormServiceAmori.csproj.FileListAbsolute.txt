@@ -1,0 +1,10 @@
+C:\Users\Yo\source\repos\FormServiceAmori\FormServiceAmori\bin\Debug\FormServiceAmori.exe.config
+C:\Users\Yo\source\repos\FormServiceAmori\FormServiceAmori\bin\Debug\FormServiceAmori.exe
+C:\Users\Yo\source\repos\FormServiceAmori\FormServiceAmori\bin\Debug\FormServiceAmori.pdb
+C:\Users\Yo\source\repos\FormServiceAmori\FormServiceAmori\obj\Debug\FormServiceAmori.csproj.AssemblyReference.cache
+C:\Users\Yo\source\repos\FormServiceAmori\FormServiceAmori\obj\Debug\FormServiceAmori.Form1.resources
+C:\Users\Yo\source\repos\FormServiceAmori\FormServiceAmori\obj\Debug\FormServiceAmori.Properties.Resources.resources
+C:\Users\Yo\source\repos\FormServiceAmori\FormServiceAmori\obj\Debug\FormServiceAmori.csproj.GenerateResource.cache
+C:\Users\Yo\source\repos\FormServiceAmori\FormServiceAmori\obj\Debug\FormServiceAmori.csproj.CoreCompileInputs.cache
+C:\Users\Yo\source\repos\FormServiceAmori\FormServiceAmori\obj\Debug\FormServiceAmori.exe
+C:\Users\Yo\source\repos\FormServiceAmori\FormServiceAmori\obj\Debug\FormServiceAmori.pdb
